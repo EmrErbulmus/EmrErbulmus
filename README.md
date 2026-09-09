@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Siber Güvenlik Alan Uzmanı</b><br>
-  Microsoft 365 · Microsoft Purview · Microsoft Defender · Kimlik ve Erişim Yönetimi
+  Microsoft 365 · Microsoft Purview · Microsoft Defender
 </p>
 
 <p align="center">
