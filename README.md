@@ -33,7 +33,6 @@ Son dönemde ağırlıklı olarak **Microsoft 365 Copilot ve yapay zekâ güvenl
 | Repo | Açıklama |
 |---|---|
 | [**microsoft-365-copilot-data-security**](https://github.com/EmrErbulmus/microsoft-365-copilot-data-security) | Microsoft 365 Copilot veri güvenliği rehberi ve 50 maddelik yapılandırma kontrol listesi |
-
 | [SecureScoreLens](https://github.com/EmrErbulmus/SecureScoreLens) | Microsoft Secure Score analiz ve görselleştirme aracı |
 ---
 
