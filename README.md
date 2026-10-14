@@ -1,5 +1,7 @@
 <h1 align="center">Emre ERBULMUŞ</h1>
 
+<img width="2524" height="1013" alt="image" src="https://github.com/user-attachments/assets/30c7a270-1ca6-416f-9e81-9a140e9bae20" />
+
 <p align="center">
   <b>Siber Güvenlik Alan Uzmanı</b><br>
   Microsoft 365 · Microsoft Purview · Microsoft Defender
