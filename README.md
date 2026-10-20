@@ -1,8 +1,9 @@
 <h1 align="center">Emre ERBULMUŞ</h1>
 
 <p align="center">
-  <b> Cyber ​​Security Principal Expert ☁ Siber Güvenlik Alan Uzmanı</b><br>
-  Microsoft 365 · Microsoft Purview · Microsoft Defender
+  <b> Cyber ​​Security Principal Expert ☁️🛡️🔐 </b><br>
+  M365 ☁️ | Microsoft Security 🛡️ | Microsoft Purview 🏷️ | Data Security 🔐 | AI Security 🤖
+  
 </p>
 
 <p align="center">
