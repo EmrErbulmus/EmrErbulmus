@@ -36,6 +36,8 @@ I create technical content in Turkish to help close the knowledge gap in the Mic
 
 Website: emreerbulmus.com
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Hakkımda
 
 Kurumsal ortamlarda Microsoft Security teknolojileri üzerine çalışıyorum. Odağımda **Microsoft Purview** ile veri güvenliği yer alıyor: hassasiyet etiketleri ve şifreleme ile **Information Protection**, veri sızıntısını uçtan uca engelleyen **Data Loss Prevention** politikaları, bulut uygulamalarındaki paylaşım ve riskli davranışları görünür kılan **Defender for Cloud Apps**, e-posta ve işbirliği katmanını koruyan **Defender for Office 365**. Veri sınıflandırmasından tehdit korumasına uzanan bu zinciri; keşif, sınıflandırma, koruma ve izleme adımlarıyla bütüncül bir veri güvenliği yaklaşımına dönüştürmek üzerine projeler yürütüyorum.
