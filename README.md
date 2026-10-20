@@ -2,7 +2,6 @@
 
 <p align="center">
   <b> Cyber ​​Security Principal Expert ☁️🛡️🏷️🔐 </b><br>
-  
   M365 ☁️ | Microsoft Security 🛡️ | Microsoft Purview 🏷️ | Data Security 🔐 | AI Security 🤖
   
 </p>
