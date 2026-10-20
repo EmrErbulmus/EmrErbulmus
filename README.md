@@ -15,7 +15,7 @@
   </a>
 </p>
 
-###About Me
+### About Me
 
 I work with Microsoft Security technologies in enterprise environments, with a particular focus on Microsoft Purview and data security. My areas of expertise include Information Protection through sensitivity labels and encryption, Data Loss Prevention (DLP) policies that help prevent data leakage end-to-end, Microsoft Defender for Cloud Apps for visibility into cloud app activity and risky behaviors, and Microsoft Defender for Office 365 for securing email and collaboration workloads. I help organizations build a comprehensive data security strategy that spans discovery, classification, protection, and monitoring of sensitive information.
 
