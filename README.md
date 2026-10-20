@@ -15,6 +15,26 @@
 </p>
 ---
 
+About Me
+
+I work with Microsoft Security technologies in enterprise environments, with a particular focus on Microsoft Purview and data security. My areas of expertise include Information Protection through sensitivity labels and encryption, Data Loss Prevention (DLP) policies that help prevent data leakage end-to-end, Microsoft Defender for Cloud Apps for visibility into cloud app activity and risky behaviors, and Microsoft Defender for Office 365 for securing email and collaboration workloads. I help organizations build a comprehensive data security strategy that spans discovery, classification, protection, and monitoring of sensitive information.
+
+More recently, I have been focusing on Microsoft 365 Copilot and AI security, including reducing oversharing risks, assessing security posture with DSPM for AI, and establishing governance for AI agents. I enjoy turning real-world field experience into practical guidance and sharing those insights through my blog at emreerbulmus.com and here on LinkedIn.
+
+🔐 Areas of Expertise
+Microsoft Purview (Information Protection, Data Loss Prevention, Insider Risk Management, eDiscovery)
+Microsoft Defender for Cloud Apps
+Microsoft Defender for Office 365
+Microsoft Entra ID
+Microsoft 365 Copilot Security & Governance
+✍️ Technical Content Creation
+
+I create technical content in Turkish to help close the knowledge gap in the Microsoft Security ecosystem and make security concepts more accessible to the local community.
+
+📫 Contact
+
+Website: emreerbulmus.com
+
 ### Hakkımda
 
 Kurumsal ortamlarda Microsoft Security teknolojileri üzerine çalışıyorum. Odağımda **Microsoft Purview** ile veri güvenliği yer alıyor: hassasiyet etiketleri ve şifreleme ile **Information Protection**, veri sızıntısını uçtan uca engelleyen **Data Loss Prevention** politikaları, bulut uygulamalarındaki paylaşım ve riskli davranışları görünür kılan **Defender for Cloud Apps**, e-posta ve işbirliği katmanını koruyan **Defender for Office 365**. Veri sınıflandırmasından tehdit korumasına uzanan bu zinciri; keşif, sınıflandırma, koruma ve izleme adımlarıyla bütüncül bir veri güvenliği yaklaşımına dönüştürmek üzerine projeler yürütüyorum.
@@ -22,7 +42,6 @@ Kurumsal ortamlarda Microsoft Security teknolojileri üzerine çalışıyorum. O
 Son dönemde ağırlıklı olarak **Microsoft 365 Copilot ve yapay zekâ güvenliği** ile ilgileniyorum — aşırı paylaşım (oversharing) risklerinin azaltılması, DSPM for AI ile veri güvenliği duruşunun ölçülmesi ve ajan (agent) yönetişimi gibi başlıklar. Sahada edindiğim deneyimleri uygulanabilir rehberlere dönüştürüp [blogumda](https://www.emreerbulmus.com) ve burada paylaşıyorum.
 
 - 🔐 **Uzmanlık alanlarım:** Microsoft Purview (Information Protection · DLP · Insider Risk · eDiscovery) · Microsoft Defender for Cloud Apps · Microsoft Defender for Office 365 · Microsoft Entra ID · Microsoft 365 Copilot güvenliği
-- ✍️ Türkçe teknik içerik üretiyorum — bu alandaki Türkçe kaynak açığını kapatmak için
 - 📫 **İletişim:** [emreerbulmus.com](https://www.emreerbulmus.com)
 
 ---
