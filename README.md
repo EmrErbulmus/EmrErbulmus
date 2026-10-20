@@ -21,11 +21,12 @@ I work with Microsoft Security technologies in enterprise environments, with a p
 More recently, I have been focusing on Microsoft 365 Copilot and AI security, including reducing oversharing risks, assessing security posture with DSPM for AI, and establishing governance for AI agents. I enjoy turning real-world field experience into practical guidance and sharing those insights through my blog at emreerbulmus.com and here on LinkedIn.
 
 🔐 Areas of Expertise
-Microsoft Purview (Information Protection, Data Loss Prevention, Insider Risk Management, eDiscovery)
-Microsoft Defender for Cloud Apps
-Microsoft Defender for Office 365
-Microsoft Entra ID
-Microsoft 365 Copilot Security & Governance
+
+* Microsoft Purview (Information Protection, Data Loss Prevention, Insider Risk Management, eDiscovery)
+* Microsoft Defender for Cloud Apps
+* Microsoft Defender for Office 365
+* Microsoft Entra ID
+* Microsoft 365 Copilot Security & Governance
 
 ✍️ Technical Content Creation
 
