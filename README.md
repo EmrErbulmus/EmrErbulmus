@@ -20,7 +20,7 @@ I work with Microsoft Security technologies in enterprise environments, with a p
 
 More recently, I have been focusing on Microsoft 365 Copilot and AI security, including reducing oversharing risks, assessing security posture with DSPM for AI, and establishing governance for AI agents. I enjoy turning real-world field experience into practical guidance and sharing those insights through my blog at emreerbulmus.com and here on LinkedIn.
 
-🔐 Areas of Expertise
+🔐 *Areas of Expertise*
 
 * Microsoft Purview (Information Protection, Data Loss Prevention, Insider Risk Management, eDiscovery)
 * Microsoft Defender for Cloud Apps
@@ -28,11 +28,11 @@ More recently, I have been focusing on Microsoft 365 Copilot and AI security, in
 * Microsoft Entra ID
 * Microsoft 365 Copilot Security & Governance
 
-✍️ Technical Content Creation
+✍️ *Technical Content Creation*
 
 I create technical content in Turkish to help close the knowledge gap in the Microsoft Security ecosystem and make security concepts more accessible to the local community.
 
-📫 Contact
+📫 *Contact*
 
 Website: emreerbulmus.com
 
@@ -44,7 +44,14 @@ Kurumsal ortamlarda Microsoft Security teknolojileri üzerine çalışıyorum. O
 
 Son dönemde ağırlıklı olarak **Microsoft 365 Copilot ve yapay zekâ güvenliği** ile ilgileniyorum — aşırı paylaşım (oversharing) risklerinin azaltılması, DSPM for AI ile veri güvenliği duruşunun ölçülmesi ve ajan (agent) yönetişimi gibi başlıklar. Sahada edindiğim deneyimleri uygulanabilir rehberlere dönüştürüp [blogumda](https://www.emreerbulmus.com) ve burada paylaşıyorum.
 
-- 🔐 **Uzmanlık alanlarım:** Microsoft Purview (Information Protection · DLP · Insider Risk · eDiscovery) · Microsoft Defender for Cloud Apps · Microsoft Defender for Office 365 · Microsoft Entra ID · Microsoft 365 Copilot güvenliği
+- 🔐 **Uzmanlık alanlarım:**
+
+  * Microsoft Purview (Information Protection, Data Loss Prevention, Insider Risk Management, eDiscovery)
+  * Microsoft Defender for Cloud Apps
+  * Microsoft Defender for Office 365
+  * Microsoft Entra ID
+  * Microsoft 365 Copilot Security & Governance
+  
 - 📫 **İletişim:** [emreerbulmus.com](https://www.emreerbulmus.com)
 
 ---
