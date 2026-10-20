@@ -29,10 +29,6 @@ More recently, I have been focusing on Microsoft 365 Copilot and AI security, in
 * Microsoft Entra ID
 * Microsoft 365 Copilot Security & Governance
 
-✍️ *Technical Content Creation*
-
-I create technical content in Turkish to help close the knowledge gap in the Microsoft Security ecosystem and make security concepts more accessible to the local community.
-
 📫 *Contact*
 
 Website: emreerbulmus.com
