@@ -15,13 +15,13 @@
   </a>
 </p>
 
-About Me
+###About Me
 
 I work with Microsoft Security technologies in enterprise environments, with a particular focus on Microsoft Purview and data security. My areas of expertise include Information Protection through sensitivity labels and encryption, Data Loss Prevention (DLP) policies that help prevent data leakage end-to-end, Microsoft Defender for Cloud Apps for visibility into cloud app activity and risky behaviors, and Microsoft Defender for Office 365 for securing email and collaboration workloads. I help organizations build a comprehensive data security strategy that spans discovery, classification, protection, and monitoring of sensitive information.
 
 More recently, I have been focusing on Microsoft 365 Copilot and AI security, including reducing oversharing risks, assessing security posture with DSPM for AI, and establishing governance for AI agents. I enjoy turning real-world field experience into practical guidance and sharing those insights through [my blog](https://www.emreerbulmus.com) and here on LinkedIn.
 
-🔐 *Areas of Expertise*
+🔐 **Areas of Expertise**
 
 * Microsoft Purview (Information Protection, Data Loss Prevention, Insider Risk Management, eDiscovery)
 * Microsoft Defender for Cloud Apps
@@ -29,9 +29,7 @@ More recently, I have been focusing on Microsoft 365 Copilot and AI security, in
 * Microsoft Entra ID
 * Microsoft 365 Copilot Security & Governance
 
-📫 *Contact*
-
-Website: emreerbulmus.com
+📫 **Contact** : [emreerbulmus.com](https://www.emreerbulmus.com)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
